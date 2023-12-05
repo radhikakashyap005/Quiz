@@ -1,6 +1,4 @@
-Absolutely, here are 30 questions in a quiz format related to CSS, HTML, and JavaScript:
 
-### HTML Quiz
 
 1. What does HTML stand for?
    - a) Hyper Transfer Markup Language
